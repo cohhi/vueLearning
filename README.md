@@ -57,8 +57,8 @@ v-module	//双向数据绑定
 v-once		//屏蔽`{{  }}`语法
 v-html		//输出html语法
 v-text		//输出纯文本语法
-v-bind		//属性绑定 v-bind:属性
-v-modele    //数据双向绑定
+v-bind:属性     //属性绑定
+v-module       //数据双向绑定
 ```
 
 
