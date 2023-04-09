@@ -58,7 +58,7 @@ v-once		//屏蔽`{{  }}`语法
 v-html		//输出html语法
 v-text		//输出纯文本语法
 v-bind		//属性绑定 v-bind:属性
-v-module        //数据双向绑定
+v-modele    //数据双向绑定
 ```
 
 
@@ -67,8 +67,8 @@ v-module        //数据双向绑定
 
 ```vue
 v-if		//返回值为真的时候才会被渲染
-v-else-if	//二次判断
-v-else		//所有判断都不成立时才被渲染
+v-else-if	//
+v-else		//
 
 v-show		//类似v-if,不能与v-else-if v-else使用
 ```
