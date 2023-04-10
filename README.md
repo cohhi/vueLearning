@@ -273,7 +273,7 @@ npm install element-plus --save
 ### View UI	https://www.iviewui.com/
 
 ```
-npm install view-ui-plus --sace
+npm install view-ui-plus --save
 ```
 
 
