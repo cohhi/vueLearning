@@ -225,6 +225,12 @@ v-for
 
 ```
 如果数据发生变化就执行回调
+watch:{
+   监听的元素(newValue,oldValue){
+      console.log("元素发生变化,变化后的值为:"+newValue)
+      console.log("变化前的值为":"+oldValue)
+   }
+}
 ```
 
 
