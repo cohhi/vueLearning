@@ -185,41 +185,8 @@ v-for
 
 - - 父传子	$props
 
-    ```vue
-    <script>
-    import hello from './components/hello.vue'
-    export default{
-      components:{
-        hello
-      },
-      data(){
-        return{
-          message:'富贵君'
-        }
-      }
-    }
-    </script>
-    <template>
-    <hello :name="message"></hello>
-    </template>
-    
-    
-    <script>
-    export default{
-        props:['name']
-    }
-    </script>
-    <template>
-        <p>你好:{{ name }}</p>
-    </template>
-    ```
+  - 父组件访问子组件	$emit	
   
-  - 父组件访问子组件	$emit	$.refs
-  
-    ```
-    ```
-  
-    
 
 ### 监听
 
