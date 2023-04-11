@@ -249,8 +249,7 @@ router-view		//将显示与 url 对应的组件
 
 路由规则:
 	path		//url
-	name		//只想页面时显示的名字
-	componen 	//路由调用时加载组件
+	component 	//路由调用时加载组件
 	
 重定向
 	redirect
@@ -344,3 +343,13 @@ npm install axios
   ```
   
   
+
+### 状态管理
+
+~~Vue x~~
+
+Pinia [Home | Pinia 中文文档 (web3doc.top)](https://pinia.web3doc.top/)
+
+```
+```
+

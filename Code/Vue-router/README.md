@@ -1,6 +1,6 @@
 安装:``npm install vue-router@4``
 
-在src文件夹下新建``router.js``文件
+在src文件夹下新建``router/router.js``文件
 
 ```javascript
 <!--创建路由-->
