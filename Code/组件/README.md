@@ -37,3 +37,6 @@ export default defineComponent({
 </template>
 ```
 
+### 组件通信（props,$emit）
+
+- 
