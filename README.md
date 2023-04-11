@@ -246,27 +246,7 @@ npm install view-ui-plus --save
 
 
 
-### axios异步请求
-
-```shell
-npm install axios
-```
-
-- 配置项
-
-  ```
-  axios.post(
-  	'请求地址'		
-  	{ 请求的参数 }
-  	{ 其他配置项 }
-  )
-  ```
-
-- 实例
-
-  ```
-  import axios from 'axios'
-  ```
+### axios请求
 
 - 响应数据
 
