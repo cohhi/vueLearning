@@ -39,4 +39,16 @@ export default defineComponent({
 
 ### 组件通信（props,$emit）
 
-- 
+- 父组件传子组件props
+
+  ```
+  ```
+
+  
+
+- 子组件传父组件
+
+  ```
+  ```
+
+  
